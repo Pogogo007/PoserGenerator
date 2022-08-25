@@ -5,3 +5,780 @@ Tools/SSEEdit/README.txt
 Tools/SSEEdit/SSEEdit_log.txt
 Tools/SSEEdit/SSEEdit.exe
 Tools/SSEEdit/SSEEditQuickAutoClean.exe
+Tools/SSEEdit/plugins.sseviewsettings
+Tools/SSEEdit/plugins.txt
+Tools/SSEEdit/R88_ESLify.bat
+Tools/SSEEdit/SSEScript_log.txt
+Tools/SSEEdit/whatsnew.rtf
+Tools/SSEEdit/Edit Scripts/_newscript_.pas
+Tools/SSEEdit/Edit Scripts/Add enable parent to the refs of specific base object.pas
+Tools/SSEEdit/Edit Scripts/Add into container.pas
+Tools/SSEEdit/Edit Scripts/Add prefix or suffix to Editor ID.pas
+Tools/SSEEdit/Edit Scripts/Add Prefix Plus Name To EDID.pas
+Tools/SSEEdit/Edit Scripts/Apply custom scripted filter.pas
+Tools/SSEEdit/Edit Scripts/Apply filter for cleaning.pas
+Tools/SSEEdit/Edit Scripts/Apply filter for deleted navmeshes.pas
+Tools/SSEEdit/Edit Scripts/Assets browser.pas
+Tools/SSEEdit/Edit Scripts/Assets manager.pas
+Tools/SSEEdit/Edit Scripts/Base object variations.pas
+Tools/SSEEdit/Edit Scripts/BASH tags autodetection.pas
+Tools/SSEEdit/Edit Scripts/Bookmark.pas
+Tools/SSEEdit/Edit Scripts/Bookmark1.pas
+Tools/SSEEdit/Edit Scripts/Bookmark1Go.pas
+Tools/SSEEdit/Edit Scripts/Bookmark2.pas
+Tools/SSEEdit/Edit Scripts/Bookmark2Go.pas
+Tools/SSEEdit/Edit Scripts/Bookmark3.pas
+Tools/SSEEdit/Edit Scripts/Bookmark3Go.pas
+Tools/SSEEdit/Edit Scripts/Bookmark4.pas
+Tools/SSEEdit/Edit Scripts/Bookmark4Go.pas
+Tools/SSEEdit/Edit Scripts/Bookmark5.pas
+Tools/SSEEdit/Edit Scripts/Bookmark5Go.pas
+Tools/SSEEdit/Edit Scripts/Change load order of FormID.pas
+Tools/SSEEdit/Edit Scripts/Change persistent flag.pas
+Tools/SSEEdit/Edit Scripts/Check for circular previous INFOs.pas
+Tools/SSEEdit/Edit Scripts/Check for errors.pas
+Tools/SSEEdit/Edit Scripts/Check for invalid alternate textures.pas
+Tools/SSEEdit/Edit Scripts/Conflict Status.pas
+Tools/SSEEdit/Edit Scripts/Copy as override.pas
+Tools/SSEEdit/Edit Scripts/Copy FormID to clipboard.pas
+Tools/SSEEdit/Edit Scripts/Copy version control info from another plugin.pas
+Tools/SSEEdit/Edit Scripts/Create Shared Infos.pas
+Tools/SSEEdit/Edit Scripts/DDS - Find textures without mipmaps.pas
+Tools/SSEEdit/Edit Scripts/Detect conflict between elements.pas
+Tools/SSEEdit/Edit Scripts/Execute external applications.pas
+Tools/SSEEdit/Edit Scripts/Export dialogues.pas
+Tools/SSEEdit/Edit Scripts/Export list of cells.pas
+Tools/SSEEdit/Edit Scripts/ExportImportTexts.pas
+Tools/SSEEdit/Edit Scripts/Fallout4 - Convert ALCH to SPEL.pas
+Tools/SSEEdit/Edit Scripts/Fallout4 - Copy XPRI subrecord.pas
+Tools/SSEEdit/Edit Scripts/Fallout4 - Disable PreVis.pas
+Tools/SSEEdit/Edit Scripts/Fallout4 - Filter for precombined statics.pas
+Tools/SSEEdit/Edit Scripts/Fallout4 - Import SCLP bone weights.pas
+Tools/SSEEdit/Edit Scripts/Fallout4 - Workshop Menu Editor.pas
+Tools/SSEEdit/Edit Scripts/Find cell in worldspace.pas
+Tools/SSEEdit/Edit Scripts/Find ESP plugins which could be turned into ESL.pas
+Tools/SSEEdit/Edit Scripts/Find plugins which could be turned into ESL.pas
+Tools/SSEEdit/Edit Scripts/Find records.pas
+Tools/SSEEdit/Edit Scripts/FNV - Export dialogues.pas
+Tools/SSEEdit/Edit Scripts/FO3 and FNV - Translator.pas
+Tools/SSEEdit/Edit Scripts/FO4-AtlasMap-Commonwealth.txt
+Tools/SSEEdit/Edit Scripts/FO4-AtlasMap-SanctuaryHillsWorld.txt
+Tools/SSEEdit/Edit Scripts/FUZer.pas
+Tools/SSEEdit/Edit Scripts/JSON - Demo.pas
+Tools/SSEEdit/Edit Scripts/List FormIDs from specific space.pas
+Tools/SSEEdit/Edit Scripts/List hardcoded forms from references.pas
+Tools/SSEEdit/Edit Scripts/List loaded plugins and their masters.pas
+Tools/SSEEdit/Edit Scripts/List LOD objects and meshes.pas
+Tools/SSEEdit/Edit Scripts/List master references.pas
+Tools/SSEEdit/Edit Scripts/List null FormID.pas
+Tools/SSEEdit/Edit Scripts/List perk entry points usage.pas
+Tools/SSEEdit/Edit Scripts/List records referencing specific plugin.pas
+Tools/SSEEdit/Edit Scripts/List used baseforms and statistics.pas
+Tools/SSEEdit/Edit Scripts/List used meshes from references.pas
+Tools/SSEEdit/Edit Scripts/List used meshes.pas
+Tools/SSEEdit/Edit Scripts/LOD Statistics.pas
+Tools/SSEEdit/Edit Scripts/LODGen_flat_lod.nif
+Tools/SSEEdit/Edit Scripts/LODGen.exe
+Tools/SSEEdit/Edit Scripts/LODGen.pas
+Tools/SSEEdit/Edit Scripts/LODGenx64.exe
+Tools/SSEEdit/Edit Scripts/Make new records from overrides.pas
+Tools/SSEEdit/Edit Scripts/Merge overrides into master.pas
+Tools/SSEEdit/Edit Scripts/NIF - Batch JSON converter.pas
+Tools/SSEEdit/Edit Scripts/NIF - Batch textures replacement.pas
+Tools/SSEEdit/Edit Scripts/NIF - Batch update tangents and bitangents.pas
+Tools/SSEEdit/Edit Scripts/NIF - Convert OBJ to NIF.pas
+Tools/SSEEdit/Edit Scripts/NIF - List blocks references.pas
+Tools/SSEEdit/Edit Scripts/Oblivion - Export all scripts in xml format.pas
+Tools/SSEEdit/Edit Scripts/Oblivion - Export Dialogues.pas
+Tools/SSEEdit/Edit Scripts/Oblivion - Items lookup replacement.pas
+Tools/SSEEdit/Edit Scripts/Oblivion - Items lookup replacement.txt
+Tools/SSEEdit/Edit Scripts/Oblivion - OCO faces assignment.pas
+Tools/SSEEdit/Edit Scripts/Output used assets filenames.pas
+Tools/SSEEdit/Edit Scripts/Put master references in the same cell as overriding references.pas
+Tools/SSEEdit/Edit Scripts/Put worldspace references in the right cells.pas
+Tools/SSEEdit/Edit Scripts/R88_ESLify.pas
+Tools/SSEEdit/Edit Scripts/Redirect references.pas
+Tools/SSEEdit/Edit Scripts/Regular Expressions Workbench.pas
+Tools/SSEEdit/Edit Scripts/Remove duplicate references.pas
+Tools/SSEEdit/Edit Scripts/Remove excess references.pas
+Tools/SSEEdit/Edit Scripts/Remove identical to previous override records.pas
+Tools/SSEEdit/Edit Scripts/Remove invalid entries from from lists.pas
+Tools/SSEEdit/Edit Scripts/Remove percentage of references of specific object.pas
+Tools/SSEEdit/Edit Scripts/Remove same references against the master cell.pas
+Tools/SSEEdit/Edit Scripts/Renumber FormID of Matching EDID.pas
+Tools/SSEEdit/Edit Scripts/Renumber FormID.pas
+Tools/SSEEdit/Edit Scripts/Replace landscape texture.pas
+Tools/SSEEdit/Edit Scripts/Replace map marker.pas
+Tools/SSEEdit/Edit Scripts/Replace model alternate textures.pas
+Tools/SSEEdit/Edit Scripts/Replace model file name.pas
+Tools/SSEEdit/Edit Scripts/Replace text in EDID and FULL.pas
+Tools/SSEEdit/Edit Scripts/Report masters.pas
+Tools/SSEEdit/Edit Scripts/Report unclamped FormIDs.pas
+Tools/SSEEdit/Edit Scripts/Restore record names from master.pas
+Tools/SSEEdit/Edit Scripts/Save script source.pas
+Tools/SSEEdit/Edit Scripts/SaveAs.pas
+Tools/SSEEdit/Edit Scripts/Scale trees references.pas
+Tools/SSEEdit/Edit Scripts/Set default water level in exterior cells with HasWater flag.pas
+Tools/SSEEdit/Edit Scripts/SetESL.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Add keywords.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Add shadow bias to lights.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Book Covers Patch.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Check edge links in navmeshes.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Check script properties.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Clean edge links in navmeshes.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Convert BOOK to SCRL.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Convert LIGH record with mesh to STAT or MISC.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Copy book text only from master record.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Copy cells settings.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Copy VMAD subrecord.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Create patch for ClimatesOfTamriel and SoundsOfSkyrim-TheWilds.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Export and import weapons stats from spreadsheet file.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Filter by script.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Find uncompressed records.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - List actors with more than one vendor faction.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - List interior cells.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - List old version plugins.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - List used scripts.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Make outfits from inventories.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Ore Veins don't respawn.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Read Books Aloud.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Remove frequence variance from sound descriptors.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Remove invalid entries.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Reuse faces.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Set first person flags on armors affected by specific plugin.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Set HavokDontSettle flag on BOOK references.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Set HavokDontSettle flag on refs using models from list.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Set HavokDontSettle models list.txt
+Tools/SSEEdit/Edit Scripts/Skyrim - Show references from location.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Tree LOD files patcher.pas
+Tools/SSEEdit/Edit Scripts/Skyrim - Tweak bloom, eyes adaptation, tint.pas
+Tools/SSEEdit/Edit Scripts/Skyrim SE - Generate Large References.pas
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-Blackreach.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-DeepwoodRedoubtWorld.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-DLC01FalmerValley.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-DLC1HunterHQWorld.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-DLC01SoulCairn.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-DLC2ApocryphaWorld.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-DLC2SolstheimWorld.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-JaphetsFollyWorld.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-Markarth.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-SkuldafnWorld.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-Sovngarde.txt
+Tools/SSEEdit/Edit Scripts/SSE-AtlasMap-Tamriel.txt
+Tools/SSEEdit/Edit Scripts/TES5-AtlasMap-Tamriel.txt
+Tools/SSEEdit/Edit Scripts/Texconv.exe
+Tools/SSEEdit/Edit Scripts/Texconvx64.exe
+Tools/SSEEdit/Edit Scripts/Undelete and Disable References.pas
+Tools/SSEEdit/Edit Scripts/Undelete navmeshes.pas
+Tools/SSEEdit/Edit Scripts/Update records form version.pas
+Tools/SSEEdit/Edit Scripts/Weather Editor.pas
+Tools/SSEEdit/Edit Scripts/Worldspace browser.pas
+Tools/SSEEdit/Edit Scripts/Worldspace change height.pas
+Tools/SSEEdit/Edit Scripts/Worldspace copy landscape area to another worldspace.pas
+Tools/SSEEdit/Edit Scripts/Worldspace copy landscape.pas
+Tools/SSEEdit/Edit Scripts/Worldspace crop.pas
+Tools/SSEEdit/Edit Scripts/Worldspace displacement.pas
+Tools/SSEEdit/Edit Scripts/Worldspace move references into another worldspace.pas
+Tools/SSEEdit/Edit Scripts/Worldspace region change height.pas
+Tools/SSEEdit/Edit Scripts/Worldspace region move.pas
+Tools/SSEEdit/Edit Scripts/Worldspace scale refs position.pas
+Tools/SSEEdit/Edit Scripts/xEditAPI.pas
+Tools/SSEEdit/Edit Scripts/lib/jvTest.pas
+Tools/SSEEdit/Edit Scripts/lib/mteFunctions.pas
+Tools/SSEEdit/Edit Scripts/lib/mxpf.pas
+Tools/SSEEdit/Optional/SSEDump.exe
+Tools/SSEEdit/Optional/SSEDump64.exe
+Tools/SSEEdit/Optional/SSEEdit64.exe
+Tools/SSEEdit/test/fuwapose.esp
+Tools/SSEEdit/test/Skyrim.esm
+Tools/SSEEdit/test/Update.esm
+Tools/SSEEdit/test/Readme and Pics/readme.txt
+Tools/SSEEdit/test/Readme and Pics/fuwa1/1.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa1/2.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa1/3.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa1/4.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/1.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/2.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/3.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/4.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/5.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/6.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/7.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/8.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/9.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/10.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/11.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/12.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/13.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/14.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/15.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/16.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/17.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/18.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/19.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/20.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/21.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/22.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/23.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/24.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/25.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/26.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/27.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/28.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/29.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/30.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/31.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/32.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/33.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/34.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/35.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/36.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/37.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/38.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/39.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/40.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/41.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/42.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/43.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/44.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/45.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/46.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/47.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/48.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/49.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/50.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/51.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/52.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/53.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/54.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/55.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/56.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/57.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/58.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/59.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/60.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/61.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/62.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/63.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/64.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/65.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/66.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/67.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/68.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/69.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/70.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/71.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/72.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/73.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/74.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/75.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/76.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/77.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/78.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/79.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/80.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa2/81.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/1.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/2.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/3.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/4.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/5.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/6.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/7.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/8.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/9.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/10.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/11.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/12.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/13.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/14.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/15.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/16.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/17.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/18.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/19.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/20.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/21.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/22.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/23.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/24.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/25.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/26.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/27.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/28.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/29.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/30.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/31.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/32.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/33.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/34.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/35.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/36.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/37.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/38.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/39.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/40.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/41.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/42.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/43.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/44.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/45.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/46.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/47.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/48.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/49.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/50.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/51.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/52.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/53.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/54.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/55.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/56.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/57.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/58.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/59.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/60.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/61.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/62.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/63.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/64.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/65.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/66.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/67.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/68.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/69.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/70.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/71.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/72.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/73.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/74.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/75.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/76.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/77.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/78.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/79.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/80.jpg
+Tools/SSEEdit/test/Readme and Pics/fuwa3/81.jpg
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW01.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW02.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW03.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW04.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW05.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW06.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW07.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW08.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW09.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW10.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW11.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW12.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW13.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW14.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW15.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW16.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW17.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW18.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW19.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW20.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW21.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW22.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW23.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW24.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW25.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW26.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW27.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW28.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW29.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW30.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW31.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW32.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW33.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW34.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW35.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW36.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW37.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW38.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW39.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW40.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW41.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW42.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW43.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW44.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW45.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW46.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW47.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW48.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW49.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW50.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW51.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW52.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW53.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW54.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW55.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW56.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW57.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW58.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW59.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW60.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW61.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW62.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW63.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW64.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW65.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW66.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW67.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW68.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW69.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW70.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW71.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW72.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW73.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW74.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW75.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW76.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW77.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW78.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW79.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW80.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/2FUW81.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW01.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW02.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW03.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW04.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW05.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW06.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW07.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW08.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW09.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW10.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW11.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW12.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW13.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW14.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW15.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW16.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW17.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW18.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW19.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW20.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW21.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW22.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW23.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW24.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW25.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW26.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW27.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW28.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW29.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW30.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW31.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW32.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW33.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW34.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW35.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW36.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW37.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW38.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW39.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW40.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW41.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW42.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW43.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW44.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW45.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW46.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW47.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW48.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW49.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW50.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW51.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW52.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW53.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW54.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW55.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW56.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW57.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW58.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW59.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW60.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW61.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW62.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW63.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW64.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW65.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW66.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW67.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW68.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW69.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW70.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW71.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW72.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW73.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW74.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW75.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW76.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW77.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW78.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW79.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW80.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/3FUW81.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw01.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw02.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw03.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw04.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw05.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw06.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw07.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw08.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw09.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw10.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw11.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw12.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw13.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw14.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw15.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw16.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw17.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw18.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw19.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw20.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw21.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw22.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw23.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw24.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw25.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw26.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw27.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw28.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw29.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw30.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw31.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw32.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw33.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw34.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw35.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw36.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw37.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw38.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw39.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw40.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw41.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw42.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw43.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw44.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw45.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw46.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw47.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw48.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw49.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw50.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw51.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw52.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw53.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw54.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw55.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw56.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw57.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw58.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw59.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw60.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw61.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw62.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw63.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw64.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw65.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw66.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw67.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw68.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw69.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw70.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw71.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw72.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw73.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw74.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw75.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw76.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw77.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw78.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw79.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw80.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/4fuw81.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw01.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw02.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw03.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw04.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw05.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw06.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw07.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw08.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw09.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw10.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw11.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw12.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw13.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw14.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw15.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw16.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw17.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw18.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw19.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw20.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw21.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw22.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw23.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw24.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw25.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw26.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw27.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw28.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw29.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw30.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw31.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw32.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw33.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw34.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw35.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw36.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw37.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw38.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw39.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw40.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw41.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw42.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw43.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw44.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw45.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw46.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw47.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw48.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw49.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw50.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw51.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw52.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw53.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw54.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw55.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw56.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw57.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw58.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw59.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw60.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw61.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw62.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw63.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw64.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw65.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw66.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw67.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw68.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw69.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw70.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw71.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw72.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw73.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw74.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw75.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw76.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw77.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw78.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw79.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw80.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/5fuw81.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/FNIS_fuwapose_List.txt
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa01.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa02.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa03.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa04.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa05.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa06.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa07.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa08.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa09.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa10.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa11.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa12.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa13.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa14.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa15.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa16.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa17.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa18.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa19.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa20.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa21.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa22.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa23.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa24.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa25.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa26.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa27.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa28.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa29.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa30.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa31.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa32.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa33.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa34.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa35.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa36.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa37.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa38.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa39.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa40.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa41.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa42.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa43.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa44.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa45.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa46.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa47.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa48.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa49.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa50.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa51.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa52.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa53.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa54.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa55.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa56.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa57.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa58.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa59.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa60.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa61.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa62.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa63.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa64.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa65.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa66.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa67.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa68.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa69.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa70.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa71.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa72.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa73.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa74.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa75.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa76.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa77.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa78.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa79.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa80.hkx
+Tools/SSEEdit/test/meshes/actors/character/animations/fuwapose/fuwa81.hkx
+Tools/SSEEdit/test/meshes/actors/character/behaviors/FNIS_fuwapose_Behavior.hkx
+Tools/SSEEdit/test/meshes/animobjects/fuwa/fuwaobjectbaskethandled.nif
+Tools/SSEEdit/test/meshes/animobjects/fuwa/fuwaobjectbaskethandled2.nif
+Tools/SSEEdit/test/meshes/animobjects/fuwa/fuwaobjectbook.nif
+Tools/SSEEdit/test/meshes/animobjects/fuwa/fuwaobjectbook2.nif
+Tools/SSEEdit/test/meshes/animobjects/fuwa/fuwaobjectcrate.nif
+Tools/SSEEdit/test/meshes/animobjects/fuwa/fuwaobjectkey.nif
+Tools/SSEEdit/test/meshes/animobjects/fuwa/fuwaobjectlantern.nif
+Tools/SSEEdit/test/meshes/animobjects/fuwa/fuwaobjectpot.nif
+Tools/SSEEdit/test/scripts/FNISeffect1ScriptPinups.pex
+Tools/SSEEdit/test/scripts/FNISeffect2ScriptPinups.pex
+Tools/SSEEdit/test/scripts/FNISquestScriptPinups.pex
+Tools/SSEEdit/test/scripts/FNISRingAddScript.pex
+Tools/SSEEdit/test/scripts/source/FNISeffect1ScriptPinups.psc
+Tools/SSEEdit/test/scripts/source/FNISeffect2ScriptPinups.psc
+Tools/SSEEdit/test/scripts/source/FNISRingAddScript.psc
+packs/FuwaPose SE.7z
