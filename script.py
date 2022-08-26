@@ -35,14 +35,33 @@ def initialize():
     for file in files:
         Archive(file).extractall(tempdata)
 
-    bruh = Path(tempdata).rglob('*.esp')
-    for file in bruh:
-        print(type(file))
-        cut = Path(file).parent
-        pp.pprint(cut)
+
+def prepareData():
+    esps = Path(tempdata).rglob('*.esp')
+    plugins = open(tempdata + "\\plugins.txt", "a+")
+    pp.pprint(tempdata)
+    #names = []
+    for file in esps:
+        cutpath = Path(file).parent
+        cutpathstr = str(cutpath)
+        if not (str(tempdata) == cutpathstr):
+            if not "Textures" in cutpathstr:
+             # Why The Fuck does gs poses have a random esp in a random folder???
+                print("ESP Found in incorrect dir")
+                plugins.write("*" + Path(file).name + "\n")
+                # names.append(Path(file).name)
+                shutil.copytree(cutpath, tempdata, dirs_exist_ok=True)
+                # shutil.rmtree(cutpath)
+        else:
+            if not "Textures" in cutpathstr:
+                print("ESP Found In correct dir")
+                plugins.write("*" + Path(file).name + "\n")
+    plugins.close()
+    pp.pprint(os.listdir(tempdata))
 
 
 initialize()
+prepareData()
 
 # Archive(file).extractall("tools\\")
 # subprocess.call(xEditPath)
